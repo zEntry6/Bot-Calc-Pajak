@@ -40,4 +40,4 @@ cd pajakin-bot`
    `py bot.py`
 
 ## 👨‍💻 made by
-coded with ☕ + ❤️ by [@zEntry6]([https://github.com/zEntry6)
+coded with ☕ + ❤️ by [@zEntry6](https://github.com/zEntry6)
